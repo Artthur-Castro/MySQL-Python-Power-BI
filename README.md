@@ -1,2 +1,2 @@
 # primC.PY
-Projeto testeIntegração-SQL-Python-Power BI 
+Projeto teste: integração SQL-Python-Power-BI
